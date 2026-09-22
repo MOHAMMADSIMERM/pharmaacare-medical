@@ -1,0 +1,7 @@
+{
+  "name": "PharmaCare Pro",
+  "description": "Intelligent pharmacy management, POS counter billing, digital prescription verification, and live order tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
